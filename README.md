@@ -1,3 +1,5 @@
+url: https://ziewy99.github.io/02_shootinggame/
+
 # ShootingGame
 
 ## 📝 概要
